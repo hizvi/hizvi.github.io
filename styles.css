@@ -1,0 +1,75 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+  background: url(https://subtlepatterns.com/patterns/school.png);
+}  
+body h1 {
+	font-size: 300%;
+	font-weight: 600;
+}
+
+.navbar-custom {
+	background-color: #C7EAE4;
+	color: #C7EAE4;	
+}
+
+#home {
+	padding: 100px 0px 50px 0px;
+}
+
+.name {
+	font-size: 500%;
+	font-family: 'Oswald', sans-serif;
+}
+
+.pic {
+	width: 400px;
+}
+
+.border {
+	border: 1px solid;
+}
+
+#about {
+	background-color: #FCBCB8;
+}
+
+#skills {
+	background-color: #A7E8BD;
+}
+
+#portfolio {
+	
+}
+.pad-it {
+	padding: 0px 125px 0px 125px;
+}
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+.stretch {
+	width: 100%;
+	height: auto;
+}
+
+#contact {
+	background-color: #FFCA84;
+}
+.icon-pad {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.fa-facebook-square {color: #3b5998;}
+.fa-envelope {color: white;}
+.fa-github {color: black;}
+.fa-linkedin-square {color: #0077B5;}
+.fa-twitter {color: #33CCFF;}
+.fa-codepen {color: black;}
+.fa-free-code-camp {color: darkgreen;}
+.margin {margin: 30px;}
+
+.footer {
+	padding-top: 10px;
+	background-color: #C7EAE4;
+	border-top: 1px solid;
+}
