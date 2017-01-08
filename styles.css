@@ -1,5 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
+	overflow-x: hidden;
   background: url(https://subtlepatterns.com/patterns/school.png);
 }  
 body h1 {
@@ -7,6 +8,9 @@ body h1 {
 	font-weight: 600;
 }
 
+.navbar {
+	width: 100%;
+}
 .navbar-custom {
 	background-color: #C7EAE4;
 	color: #C7EAE4;	
