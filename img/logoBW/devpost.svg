@@ -1,0 +1,15 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="514" width="514" y="-1" x="-1"/>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <g stroke="null" id="XMLID_126_">
+   <circle stroke="null" r="256" cy="256" cx="256" fill="#000000" id="devpost-back"/>
+   <polygon stroke="null" transform="translate(35,47) scale(0.75) " points="162.56634012858072,499.56834920247394 31.11110864082972,272.10011800130206 162.56634012858072,44.4444382985433 425.28928629557294,44.4444382985433 556.7443644205729,272.10011800130206 425.28928629557294,499.56834920247394 " fill="#FFFFFF" id="XMLID_3_"/>
+   <path stroke="null" transform="translate(35,47) scale(0.75) " d="m275.960749,410.724197l-82.816312,0l0,-277.246428l86.768909,0c79.240153,0 137.964448,37.267341 137.964448,138.717323c0,97.497386 -70.582084,138.529104 -141.917045,138.529104zm1.882189,-223.415825l-29.362147,0l0,169.585222l27.291739,0c58.159638,0 84.88672,-34.067619 84.88672,-84.88672c0.188219,-56.465668 -24.092018,-84.698501 -82.816312,-84.698501z" fill="#000000" id="XMLID_2_"/>
+  </g>
+ </g>
+</svg>
